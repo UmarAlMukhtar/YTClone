@@ -20,30 +20,33 @@ A YouTube-inspired video streaming web application built with React.
 ## Getting Started
 
 1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/youtube-clone.git
-    cd youtube-clone
-    ```
+
+   ```bash
+   git clone https://github.com/UmarAlMukhtar/YTClone.git
+   cd youtube-clone
+   ```
 
 2. **Install dependencies:**
-    ```bash
-    npm install
-    ```
+
+   ```bash
+   npm install
+   ```
 
 3. **Set up API key:**
-    - Create a `.env` file and add your YouTube Data API key:
-      ```
-      REACT_APP_YOUTUBE_API_KEY=your_api_key_here
-      ```
+
+   - Create a `.env` file and add your YouTube Data API key:
+     ```
+     REACT_APP_YOUTUBE_API_KEY=your_api_key_here
+     ```
 
 4. **Run the app:**
-    ```bash
-    npm start
-    ```
+   ```bash
+   npm start
+   ```
 
 ## Screenshots
 
 ![Home Page](screenshots/home.png)
 ![Video Player](screenshots/player.png)
 
-*This project is for educational purposes and is not affiliated with YouTube.*
+_This project is for educational purposes and is not affiliated with YouTube._
