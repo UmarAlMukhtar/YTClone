@@ -23,7 +23,7 @@ A YouTube-inspired video streaming web application built with React.
 
    ```bash
    git clone https://github.com/UmarAlMukhtar/YTClone.git
-   cd youtube-clone
+   cd YTClone
    ```
 
 2. **Install dependencies:**
